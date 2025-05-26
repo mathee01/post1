@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>กดดูโปรโมชั่น!</title>
+
+    <!-- Twitter Card meta -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="กดดูโปรโมชั่น!">
+    <meta name="twitter:description" content="แอดไลน์เพื่อรับโบนัสพิเศษ">
+    <meta name="twitter:image" content="https://mathee01.github.io/post1/promo3.png">
+    <meta property="og:url" content="https://mathee01.github.io/post1/">
+
+    <!-- Redirect -->
+    <meta http-equiv="refresh" content="0; URL=https://heylink.me/chaiyo777/" />
+  </head>
+  <body>
+  </body>
+</html>
